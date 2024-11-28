@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.maingame.core"},{"l":"io.github.maingame.entities"},{"l":"io.github.maingame.input"},{"l":"io.github.maingame.items"},{"l":"io.github.maingame.scenes"},{"l":"io.github.maingame.utils"}];updateSearchResults();
